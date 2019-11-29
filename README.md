@@ -22,3 +22,5 @@
 |  1 | pass     | ROLE_USER | user      |      1 |
 +----+----------+-----------+-----------+--------+
 1 row in set (0.01 sec)
+
+3) Make sure to add all dependencies in pom and configure the applicatio.properties files with all info needed to connect to database.
